@@ -4,6 +4,8 @@ Apache HBase docker image based on alpine (will be change for debian)
 
 https://www.tutorialspoint.com/hbase/hbase_overview.htm
 
+https://mapr.com/blog/in-depth-look-hbase-architecture/
+
 ## Small setup
   ```
   # network 
