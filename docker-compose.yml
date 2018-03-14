@@ -5,7 +5,7 @@ services:
     container_name: zookeeper-1    
     networks: ["vnet"]
     hostname: zookeeper-1.vnet
-    image: smizy/zookeeper:3.4-alpine
+    image: zookeeper
     environment:
       - SERVICE_2181_NAME=zookeeper
       - SERVICE_2888_IGNORE=true
